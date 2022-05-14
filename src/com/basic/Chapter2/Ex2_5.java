@@ -1,7 +1,13 @@
 package com.basic.Chapter2;
 
 public class Ex2_5 {
-    int x = 10;
-
+    public static void main(String args[]){
+        int x = 10;
+        int y = 5;
+        System.out.println(x+y);
+        System.out.println(x-y);
+        System.out.println(x*y);
+        System.out.println(x/y);
+    }
 
 }
